@@ -1,0 +1,11 @@
+program a2022 ;
+var
+a1 , b2a , wc , bal2 : integer ;
+begin
+al = 3 ;
+b2a = 4 ;
+wc = 5 ;
+write(wc) ;
+bal2 = al * ( b2a + 2 * wc) ;
+write ( "value=" , bal2 ) ;
+end.
