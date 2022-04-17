@@ -1,0 +1,16 @@
+program a2022 ;
+/* This program computes and prints the value
+  of a given expression */
+var
+  /* delcare variables */
+  a1 ,  b2a , wc , bal2   : integer ;
+begin
+    al    = 3 ;
+    b2a=  4 ;
+    wc   = 5 ;
+  write(wc) ; /* display wc */
+  
+    /* compute the value of this expression */
+    bal2 = al * ( b2a + 2 * wc) ;
+    write ( "value=" , bal2 ) ; /* print the value of bal12 */
+  end.
